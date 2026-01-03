@@ -1,0 +1,5 @@
+{
+  "description": "A named entity recognition tool that identifies and labels entities such as persons, organizations, and locations in a given text.",
+  "name": "ner_tool",
+  "tool_class": "ner_tool.NamedEntityRecognitionTool"
+}
